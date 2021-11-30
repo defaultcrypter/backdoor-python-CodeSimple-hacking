@@ -6,7 +6,7 @@ ESTUDE PROGRAMAÇÃO E VIVA, CONHECIMENTO NÃO É CRIME!
 
 Olá meu nome é Gustavo, mais conhecido como (Default Crypter) ou ~Pirata | na Web! Pentester e um fanatico por programação :)
 
-![image](https://user-images.githubusercontent.com/81519068/144047670-61281bf7-de95-4ec5-a33c-a68c7a9d5668.png)
+![image](https://user-images.githubusercontent.com/81519068/144047804-feb06c8b-4c2b-4c33-9ba4-2cf2f21ef5ea.png)
 
 TENHA ACESSO AO COMPUTADOR DE QUALQUER PESSOA!
 
