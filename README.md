@@ -11,7 +11,7 @@ Olá meu nome é Gustavo, mais conhecido como (Default Crypter) ou ~Pirata | na 
 
 !!! TENHA ACESSO AO COMPUTADOR DE QUALQUER PESSOA !!!
 
-Meu próprio backdoor feito em Python tendo referência o Meterpreter, no futuro adcionarei outras features, como por exemplo:"screenshot, download, upload e uma conexão permanente mesmo que caia através de def (função)", Qualquer comentário que possa ajudar meu projeto/qualquer dúvida entre em contato:
+Meu próprio backdoor feito em Python tendo referência o Meterpreter e o ncat, no futuro adcionarei outras features, como por exemplo:"screenshot, download, upload e uma conexão permanente mesmo que caia através de def (função)", Qualquer comentário que possa ajudar meu projeto/qualquer dúvida entre em contato:
 
 Instagram: https://www.instagram.com/gusta_do_bailao/
 
