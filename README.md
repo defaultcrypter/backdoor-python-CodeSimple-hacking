@@ -12,6 +12,8 @@ Instagram: https://www.instagram.com/gusta_do_bailao/
 
 Nos arquivos: socket e client mude o IP para o seu IP local da sua maquina, ou se você quiser testar fora troque o IP do client para o seu servidor e configure as portas do seu roteador para serem redirecionadas a sua porta local, através do seu IP PUBLICO.
 
+No futuro irei implementar um metódor de obfuscar o código para AV não identificarem como algo malicioso, poderei usar Base64 ou codificação XOR.
+
 ----------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/81519068/144038454-84a2e7fe-1062-4658-85d0-50c29c44c3a1.png)
 
@@ -27,3 +29,7 @@ My own backdoor made in Python with reference to Meterpreter, in the future I wi
 Instagram: https://www.instagram.com/gusta_do_bailao/
 
 In the files: socket and client change the IP to your machine's local IP, or if you want to test it out, change the client's IP to your server and configure your router's ports to be redirected to your local port, through your PUBLIC IP.
+
+In the future I will implement a method to obfuscate the AV code so they don't identify it as malicious, I can use Base64 or XOR encoding.
+
+
