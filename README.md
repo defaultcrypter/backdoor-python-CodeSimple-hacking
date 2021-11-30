@@ -19,7 +19,6 @@ Nos arquivos: socket e client mude o IP para o seu IP local da sua maquina, ou s
 
 No futuro irei implementar um metódor de obfuscar o código para AV não identificarem como algo malicioso, poderei usar Base64 ou codificação XOR.
 
-Quer um executavél cmd/bash hidden? por que não tentar o PyInstaller ou o auto-py-to-exe? <3
 
 ----------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/81519068/144038454-84a2e7fe-1062-4658-85d0-50c29c44c3a1.png)
