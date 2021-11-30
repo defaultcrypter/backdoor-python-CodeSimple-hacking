@@ -6,6 +6,10 @@ ESTUDE PROGRAMAÇÃO E VIVA, CONHECIMENTO NÃO É CRIME!
 
 Olá meu nome é Gustavo, mais conhecido como (Default Crypter) ou ~Pirata | na Web! Pentester e um fanatico por programação :)
 
+![image](https://user-images.githubusercontent.com/81519068/144047670-61281bf7-de95-4ec5-a33c-a68c7a9d5668.png)
+
+TENHA ACESSO AO COMPUTADOR DE QUALQUER PESSOA!
+
 Meu próprio backdoor feito em Python tendo referência o Meterpreter, no futuro adcionarei outras features, como por exemplo:"screenshot, download, upload e uma conexão permanente mesmo que caia através de função", Qualquer comentário que possa ajudar meu projeto/qualquer dúvida entre em contato:
 
 Instagram: https://www.instagram.com/gusta_do_bailao/
