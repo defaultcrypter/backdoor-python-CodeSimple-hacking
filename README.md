@@ -5,10 +5,11 @@
 ESTUDE PROGRAMAÇÃO E VIVA, CONHECIMENTO NÃO É CRIME!
 
 Olá meu nome é Gustavo, mais conhecido como (Default Crypter) ou ~Pirata | na Web! Pentester e um fanatico por programação :)
+!!! TENHA ACESSO AO COMPUTADOR DE QUALQUER PESSOA !!!
 
 ![image](https://user-images.githubusercontent.com/81519068/144047804-feb06c8b-4c2b-4c33-9ba4-2cf2f21ef5ea.png)
 
-TENHA ACESSO AO COMPUTADOR DE QUALQUER PESSOA!
+!!! TENHA ACESSO AO COMPUTADOR DE QUALQUER PESSOA !!!
 
 Meu próprio backdoor feito em Python tendo referência o Meterpreter, no futuro adcionarei outras features, como por exemplo:"screenshot, download, upload e uma conexão permanente mesmo que caia através de função", Qualquer comentário que possa ajudar meu projeto/qualquer dúvida entre em contato:
 
