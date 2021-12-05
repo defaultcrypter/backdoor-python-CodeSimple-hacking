@@ -1,6 +1,7 @@
 # backdoor-python-CodeSimple
 
 
+! PYTHON 3.9
 
 ESTUDE PROGRAMAÇÃO E VIVA, CONHECIMENTO NÃO É CRIME!
 
