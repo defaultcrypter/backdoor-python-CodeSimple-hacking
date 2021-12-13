@@ -1,7 +1,7 @@
 # backdoor-python-CodeSimple
 
 
-! PYTHON 3.9
+! PYTHON 3.9 - Trabalhando com redes sockets
 
 ESTUDE PROGRAMAÇÃO E VIVA, CONHECIMENTO NÃO É CRIME!
 
